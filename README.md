@@ -1,49 +1,28 @@
-# Nombre del Proyecto
+<!DOCTYPE html>
+<HTML>
+  <head>
+    <stayl type="text/css">
+    body{
+        background-color:blue;
+}
+   h1{
+    color:red
+    padding:copx;
+}
+   </stayl>
+    <title>Mi primer WEB wazaaa</title>
+  </head>
+  <body>
 
-Descripción concisa del proyecto.
-
-## Capturas de Pantalla (opcional)
-
-Inserta capturas de pantalla o enlaces a tu sitio web aquí.
-
-## Características
-
-- Lista de características clave
-- Otra característica importante
-- ...
-
-## Tecnologías Utilizadas
-
-- Lista de tecnologías, frameworks y herramientas utilizadas.
-
-## Instalación
-
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
-2. Navega al directorio del proyecto: `cd tu-proyecto`
-3. Abre el archivo `index.html` en tu navegador.
-
-## Uso
-
-Proporciona ejemplos o instrucciones sobre cómo usar tu sitio web.
-
-## Contribución
-
-Si quieres contribuir al proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b nueva-caracteristica`
-3. Realiza tus cambios y haz commit: `git commit -m 'Añadir nueva característica'`
-4. Haz push a la rama: `git push origin nueva-caracteristica`
-5. Crea un pull request en GitHub.
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](enlace a la licencia).
-
-## Contacto
-
-- Tu Nombre
-- Tu dirección de correo electrónico
-- Enlaces a perfiles de redes sociales
-
-Feel free to reach out if you have any questions or feedback!
+    <div id="una capa">
+      <h1>Hola mundo!       wazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,    insanidad hermano</h1>
+      <p>tu tio chuy come chicharron,<b><i> sale mal :D</p></b></i>
+      <br>
+    </div>
+       <hr>
+       <center><p><b>        sigueme en twitch</p></center>
+        <center><a href=.html>https://www.twitch.tv/moy4444</a></center>
+         <hr>
+         <center><h1><i>Me encanta esta historia, ¿Quieres escucharla?</h1></center></i>
+         <center><img src="https://hips.hearstapps.com/hmg-prod/images/lamborghini-aventador-svj-63-roadster-1566027984.jpg?crop=0.9484450010436235xw:1xh;center,top&resize=1200:*"></center>
+</HTML>
